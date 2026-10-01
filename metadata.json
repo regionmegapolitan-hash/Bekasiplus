@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dashboard Siswa \u0026 Tunggakan Pembayaran",
+  "description": "Dashboard interaktif data siswa, status pelunasan, analisis tunggakan, dan integrasi dinamis via link JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
